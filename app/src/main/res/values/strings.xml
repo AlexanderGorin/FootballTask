@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FootballTask</string>
+    <string name="error_unknown">Unknown Error</string>
+    <string name="error_no_standings_for_id">Didn\'t find standings for ID =  %1$s</string>
 </resources>
